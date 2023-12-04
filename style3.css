@@ -1,0 +1,15 @@
+.align {
+    max-width: max-content;
+    margin: 0 auto;
+}
+
+.Rectangle33 {
+    vertical-align: middle;
+    position: relative;
+    width: 100%;
+    overflow: auto;
+}
+
+a {
+    text-decoration: none;
+  }
